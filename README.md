@@ -18,18 +18,6 @@ const profile = {
 }
 ```
 
-## 🔭 I'm currently working on
-
-Focused on Shopify app development and bespoke backend systems
-
-## 🌱 I'm currently learning
-
-Currently expanding into Go and building more complex, backend-focused systems
-
-## 👀 I'm interested in
-
-Distributed systems • event-driven architectures • API design
-
 ## 💻 Tech Stack
 
 ```json

@@ -56,10 +56,3 @@ const contact = {
   email: "johnlagonikas1@gmail.com",
 }
 ```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
